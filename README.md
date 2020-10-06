@@ -41,4 +41,4 @@ Em criptografia, a Cifra de César, também conhecida como cifra de troca, códi
 <br/>
 
 > **@M1113r** :dart: *“Indeed, the woes of Software Engineering are not due to lack of tools, or proper management, but largely
-due to lack of sufficient technical competence.”* — Niklaus Wirth :shipit:
+due to lack of sufficient technical competence.”* — Niklaus Wirth  :shipit:

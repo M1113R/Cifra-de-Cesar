@@ -19,7 +19,8 @@ Em criptografia, a Cifra de César, também conhecida como cifra de troca, códi
 
 ## Como utilizar?
 
-- [ ] Compile o arquivo **exercicio.c**.
+- [ ] Compile o arquivo **exercicio.c**. ou <a href="https://repl.it/@M1113r/CifraCesar#main.c" alt="replit">
+        <img src="https://img.shields.io/badge/Acesso-Programa-blue" /></a> :link:
 
 ![Main](https://drive.google.com/uc?export=view&id=12kb12OsHn0TJ0c7JZRcruViMX4QvaZiO)
 

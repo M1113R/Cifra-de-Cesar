@@ -21,17 +21,17 @@ Em criptografia, a Cifra de César, também conhecida como cifra de troca, códi
 
 - [ ] Compile o arquivo **exercicio.c**.
 
-![Main](https://github.com/m1113r/CifraCesar/blob/main.png?raw=true)
+![Main](https://drive.google.com/uc?export=view&id=12kb12OsHn0TJ0c7JZRcruViMX4QvaZiO)
 
-- [ ] Selecione a opção que desejar.
+- [ ] **Selecione a opção que desejar.**
 
 - [ ] Caso seja a **opção 1**, o programa irá imprimir a seguinte mensagem:
 
-![cripto](https://github.com/m1113r/CifraCesar/blob/criptografado.png?raw=true)
+![cripto](https://drive.google.com/uc?export=view&id=1_qHLLbUgP1x55gtuk1JBKVc49SSuz6vp)
 
 - [ ] Caso seja a **opção 2**, o programa irá imprimir a seguinte mensagem:
 
-![deco](https://github.com/m1113r/CifraCesar/blob/decodificado.png?raw=true)
+![deco](https://drive.google.com/uc?export=view&id=1rBXptBYxqKfF01pjHsNTtf-IsWG5NpUe)
 
 - [ ] Caso seja a **opção 0**, o programa irá fechar: 
 
